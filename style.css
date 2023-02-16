@@ -3,4 +3,6 @@ html {
   width: 100%;
   background-color: blue;
   color:black;
+  margin: 0auto;
+  padding: 5px;
 }
